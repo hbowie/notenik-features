@@ -1,0 +1,29 @@
+Title:  Notenik Features
+
+Seq:    1
+
+Level:  1 - Title
+
+Image Name: App on MacBook Air
+
+Body:
+
+The Notenik app already has a [website](https://notenik.app). And it also has a detailed [Knowledge Base](https://notenik.app/knowledge-base/EPUB/html/notenik-knowledge-base.html), containing instructions on how the application works. 
+
+I've been getting the feeling lately, though, that something in between is needed. 
+
+There's been a lot of activity and interest of late in the field of digital note-taking. What might have once seemed like a pretty simple, straightforward category has become more sophisticated, in the process even aspiring to the sobriquets of *[Personal Knowledge Management Systems][pkm],* *[commonplace books][cb]*, and *[Zettelkasten][zk]*. And there seem to be new words written every day comparing the various applications in this arena, singing the praises of one of them or the other, or describing various ways in which these increasingly powerful tools can be used. 
+
+And so now there are fairly lengthy, detailed feature comparisons out there -- such as [this one from *The Sweet Setup*](https://thesweetsetup.com/obsidian-vs-roam/) -- providing guidance so that users can decide which of these apps might be the best fit for their needs.  
+
+Notenik does not yet get a mention in any of these articles -- even though I think it compares well with many of them -- so I thought it might be useful for me to offer a somewhat detailed list of Notenik features -- structured so as to make for an easy comparison with other, similar apps -- and publish this as another living document in the Notenik family. 
+
+And so I present this guide to Notenik's features -- with more detail than the website or a quick intro, but without all the how-to info in the Knowledge Base. 
+
+-- [Herb Bowie](https://hbowie.net), developer
+
+[cb]: https://en.wikipedia.org/wiki/Commonplace_book
+
+[pkm]: https://en.wikipedia.org/wiki/Personal_knowledge_management
+
+[zk]: https://en.wikipedia.org/wiki/Zettelkasten

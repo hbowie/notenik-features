@@ -1,0 +1,13 @@
+Title:  Search
+
+Seq:    1.14
+
+Level:  2 - Section
+
+Body:
+
+Notenik offers both a simple search and an advanced search, which allows you to select which fields should be included in the search. 
+
+In both cases -- simple and advanced -- one Note is shown at a time, allowing you to advance to the next matching Note whenever you are ready. Occurrences of the search term or phrase are highlighted in each note's display. 
+
+Notenik does not offer complex queries.

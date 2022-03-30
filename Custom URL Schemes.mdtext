@@ -1,0 +1,11 @@
+Title:  Custom URL Schemes
+
+Seq:    1.18
+
+Level:  2 - Section
+
+Body:
+
+Notenik has its own custom URL scheme, meaning that you can type a URL starting with `notenik://`, followed by a valid Notenik command, and then, by following that link from another application, can get Notenik to do something for you: open a Collection, open a particular Note, add a new Note, etc. 
+
+Notenik also has a special Link field, and you can use that to fire off custom URLs for other apps -- or, for Notenik itself, for that matter.

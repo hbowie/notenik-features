@@ -1,0 +1,13 @@
+Title:  Daily Notes
+
+Seq:    1.16
+
+Level:  2 - Section
+
+Body:
+
+Notenik has a [Quick Action][qa] window that allows you to select a Collection, enter a Title, and enter a Body, and then hit OK to add a new Note to a Collection. 
+
+If you enter `today` in the Title field on the Quick Action window, then that word will be replaced by today's date, in `yyyy-mm-dd` format. 
+
+[qa]: https://notenik.app/knowledge-base/EPUB/html/take-quick-action.html

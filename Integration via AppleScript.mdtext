@@ -1,0 +1,11 @@
+Title:  Integration via AppleScript
+
+Seq:    1.19
+
+Level:  2 - Section
+
+Body:
+
+Although Notenik is not scriptable via AppleScript in the classic sense, it does implement a number of custom AppleScript commands designed to support integration with other apps -- most notably, [Hook][]. The Hook team is currently developing and testing integration scripts that will allow Notenik to be used with their Mac app. 
+
+[hook]: https://hookproductivity.com
