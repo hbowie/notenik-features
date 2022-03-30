@@ -19,23 +19,23 @@ Use these links to obtain more info about the app, and to actually download a wo
 This is all of the Swift code written as part of the Notenik application. These are all released under the terms of the MIT License. 
 
 + [notenik-swift](https://github.com/hbowie/notenik-swift) - The Mac UI, written using AppKit/Cocoa
-* [NotenikLib](https://github.com/hbowie/NotenikLib) - Underlying code that does not need Cocoa
-* [NotenikUtils](https://github.com/hbowie/NotenikUtils) - General-purpose utilities
-* [NotenikTextile](https://github.com/hbowie/NotenikTextile) - A very basic and incomplete parser for Textile
-* [NotenikMkdown](https://github.com/hbowie/NotenikMkdown) - Notenik's custom Markdown parser
++ [NotenikLib](https://github.com/hbowie/NotenikLib) - Underlying code that does not need Cocoa
++ [NotenikUtils](https://github.com/hbowie/NotenikUtils) - General-purpose utilities
++ [NotenikTextile](https://github.com/hbowie/NotenikTextile) - A very basic and incomplete parser for Textile
++ [NotenikMkdown](https://github.com/hbowie/NotenikMkdown) - Notenik's custom Markdown parser
 
 ## Additional Code Packages
 
 This is additional open-source code, written by others, and used by Notenik. These packages are all separately licensed. 
 
-* [cmark](https://github.com/commonmark/cmark)
-* [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX)
-* [Down](https://github.com/iwasrobbed/Down)
-* [Ink](https://github.com/JohnSundell/Ink)
-* [MathJax](https://www.mathjax.org)
-* [TrackerZapper](https://github.com/rknightuk/TrackerZapper)
-* [XMLCoder](https://github.com/MaxDesiatov/XMLCoder)
-* [ZIPFoundation](https://github.com/weichsel/ZIPFoundation)
++ [cmark](https://github.com/commonmark/cmark)
++ [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX)
++ [Down](https://github.com/iwasrobbed/Down)
++ [Ink](https://github.com/JohnSundell/Ink)
++ [MathJax](https://www.mathjax.org)
++ [TrackerZapper](https://github.com/rknightuk/TrackerZapper)
++ [XMLCoder](https://github.com/MaxDesiatov/XMLCoder)
++ [ZIPFoundation](https://github.com/weichsel/ZIPFoundation)
 
 ## Documentation Repos
 
