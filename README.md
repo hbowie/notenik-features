@@ -24,6 +24,14 @@ This is all of the Swift code written as part of the Notenik application. These 
 + [NotenikTextile](https://github.com/hbowie/NotenikTextile) - A very basic and incomplete parser for Textile
 + [NotenikMkdown](https://github.com/hbowie/NotenikMkdown) - Notenik's custom Markdown parser
 
+## Documentation Repos
+
+These repositories contain various sorts of documentation about Notenik. 
+
++ [Knowledge Base](https://github.com/hbowie/notenik-KB) - Everything you might ever want to know about Notenik, including its version history
++ [Guide to Features](https://github.com/hbowie/notenik-features) - A detailed guide to the features to be found in Notenik 
++ [Tips](https://github.com/hbowie/notenik-tips) - Brief introductory tips on the use of Notenik
+
 ## Additional Code Packages
 
 This is additional open-source code, written by others, and used by Notenik. These packages are all separately licensed. 
@@ -37,12 +45,6 @@ This is additional open-source code, written by others, and used by Notenik. The
 + [XMLCoder](https://github.com/MaxDesiatov/XMLCoder)
 + [ZIPFoundation](https://github.com/weichsel/ZIPFoundation)
 
-## Documentation Repos
 
-These repositories contain various sorts of documentation about Notenik. 
-
-+ [Knowledge Base](https://github.com/hbowie/notenik-KB) - Everything you might ever want to know about Notenik, including its version history
-+ [Guide to Features](https://github.com/hbowie/notenik-features) - A detailed guide to the features to be found in Notenik 
-+ [Tips](https://github.com/hbowie/notenik-tips) - Brief introductory tips on the use of Notenik
 
 
