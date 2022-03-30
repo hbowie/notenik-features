@@ -31,6 +31,7 @@ These repositories contain various sorts of documentation about Notenik.
 + [Knowledge Base](https://github.com/hbowie/notenik-KB) - Everything you might ever want to know about Notenik, including its version history
 + [Guide to Features](https://github.com/hbowie/notenik-features) - A detailed guide to the features to be found in Notenik 
 + [Tips](https://github.com/hbowie/notenik-tips) - Brief introductory tips on the use of Notenik
++ [Website](https://github.com/hbowie/notenik-web) - The files needed to generate and maintain the Notenik.app website
 
 ## Additional Code Packages
 
