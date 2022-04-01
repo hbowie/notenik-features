@@ -1,4 +1,4 @@
-Title: Notenik Docs notenik-features
+Title: Notenik Features
 
 Link: /Users/hbowie/Xcode/Notenik Docs/notenik-features
 
@@ -25,6 +25,10 @@ Local Images: true
 Missing Targets: false
 
 Curly Apostrophes: true
+
+Web Book Folder: /Users/hbowie/Sites/notenik-web/features
+
+Web Book EPUB: false
 
 Window Numbers: 1310.0;85.0;1250.0;1330.0;517.5;
 
