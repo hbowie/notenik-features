@@ -1,0 +1,9 @@
+Title:  Accessibility
+
+Seq:    1.24
+
+Level:  2 - Section
+
+Body:
+
+Because Notenik uses a standard Mac [[User Interface]], and because the [[programming code]] uses Apple's own language and APIs, Notenik is "completely accessible" to visually impaired users, using the [VoiceOver](https://www.apple.com/accessibility/vision/) screen reader (as reported to the author by such a user). 
